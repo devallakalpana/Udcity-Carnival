@@ -1,5 +1,5 @@
 # Udcity-Carnival
-Udacity Carnival project
+#Udacity Carnival project
 
 #Description :
 The goal of this project is to customize the Udacity Carnival project which consists of 3 Mini-Games: Plinko, Wheel of Fortune, and Coin Toss. With each game, you will earn points. When you earn 2000 points, you will receive a virtual classic Carnival prize!.
